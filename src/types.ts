@@ -1,4 +1,4 @@
-import { ApolloLink } from 'apollo-link';
+import { ApolloLink } from '@apollo/client';
 import { GraphQLSchema } from 'graphql';
 import { IpcRenderer, IpcMain } from 'electron';
 
